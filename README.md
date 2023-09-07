@@ -1,6 +1,7 @@
 - 👋 Hi, I’m valentine 
 - 👀 I’m interested in programming and graphics design 
 - 🌱 I’m currently learning javascript and it's framework Vue
+-   I'm currently learning node js for backend dev and react js for frontend development at Decagon Institute.
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me - i can be reached through my email (valentinenwobi9@gmail.com) or on WhatsApp (09039372810)
 
